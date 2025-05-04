@@ -2,7 +2,7 @@
 
 Esta es una aplicación de escritorio sencilla desarrollada en Python utilizando la biblioteca `tkinter` para la interfaz gráfica y la biblioteca `qrcode` para la generación de códigos QR. Permite a los usuarios ingresar una URL y generar un código QR correspondiente, el cual pueden visualizar y guardar como un archivo PNG.
 
-![Interfaz del Generador de Códigos QR](ruta_a_la_captura_de_pantalla.png)
+![Interfaz del Generador de Códigos QR](interfaz.png) 
 
 ## Características Principales
 
