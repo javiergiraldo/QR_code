@@ -47,24 +47,26 @@ Javier Giraldo
 
 ## Licencia
 
-MIT License
+Licencia de Uso No Comercial
 
 Copyright (c) 2025 kappak-dev
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+POR FAVOR LEA CUIDADOSAMENTE LOS SIGUIENTES TÉRMINOS Y CONDICIONES ANTES DE UTILIZAR ESTE SOFTWARE.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Esta licencia otorga permiso para utilizar el software *QR_code* únicamente para **fines no comerciales**. Se consideran fines no comerciales aquellos que no están dirigidos principalmente a obtener una ventaja comercial o una compensación monetaria. Esto incluye el uso personal, la investigación académica y la evaluación interna.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Se prohíbe expresamente cualquier uso comercial del Software, incluyendo, pero no limitado a:**
+
+* La integración del Software en productos o servicios que se vendan o se ofrezcan a cambio de una tarifa.
+* La utilización del Software para proporcionar servicios a terceros con fines de lucro.
+* La distribución del Software con la intención de obtener ganancias económicas.
+
+**Requerimiento de Contacto para Uso Comercial:**
+
+Si usted desea utilizar el Software para cualquier fin comercial, **debe contactar y obtener una licencia explícita por escrito del titular de los derechos de autor**, *Javier Giraldo*, a la siguiente dirección de correo electrónico: *javiergiraldorivera@gmail.com*. La concesión de una licencia comercial estará sujeta a términos y tarifas que se acordarán mutuamente.
+
+**Otras Condiciones:**
+
+* Se permite la copia y distribución del Software para fines no comerciales, siempre y cuando se mantenga intacto este aviso de licencia en todas las copias y se dé el crédito adecuado al titular de los derechos de autor.
+* Se prohíbe la modificación del Software sin el permiso explícito por escrito del titular de los derechos de autor.
+* EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL AUTOR O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
